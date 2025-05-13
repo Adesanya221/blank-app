@@ -17,3 +17,5 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+This is a simple Streamlit app template that you can easily customise to suit your needs. To run it locally on your machine, first install the required dependencies by running pip install -r requirements.txt, then launch the app using the command streamlit run streamlit_app.py. You can also try it out directly online by clicking the badge below.
+
